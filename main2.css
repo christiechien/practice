@@ -1,0 +1,56 @@
+.rect{
+    background: gold;
+    width: 150px; height: 150px; 
+    border-radius:50%;
+
+}
+
+.btn{background: #00b1ff;
+    width: 150px; 
+/*    height: 50px; */
+    text-align: center;
+    line-height: 60px;
+    border-radius:10px;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    color: #fff;
+    box-shadow: 5px 5px 10px #767070;
+}
+
+.btn:hover{
+    color: gray;
+    background: #8cd0ef;
+    box-shadow: 0.2px 0.2px 10px rgba(0,0,0,0.4);
+}
+
+.btn:active{
+    background: #ce00ff;
+    color: black
+        
+}
+
+.box{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: gold;
+    font-weight: 900;
+    font-family: ariel;
+    text-align: center;
+    font-size: 23px
+    
+}
+
+.bg1{
+    background: orangered;
+}
+
+.bg2{
+    background: limegreen;
+    
+}
+.bg3{
+    background: dodgerblue;
+}
+
+.inner{background: navy}
