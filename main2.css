@@ -54,3 +54,37 @@
 }
 
 .inner{background: navy}
+
+.box1{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#ffce00;
+    
+}
+
+.block19{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    text-align:center;
+    color:#ffffff;
+    background:red;
+}
+
+.block3{
+    color:red;
+}
+
+.inner1{background: #ffffa8}
+
+.inner2{background: black}
